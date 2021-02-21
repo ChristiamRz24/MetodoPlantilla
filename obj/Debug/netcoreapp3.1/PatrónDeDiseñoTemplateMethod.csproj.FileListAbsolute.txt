@@ -1,0 +1,13 @@
+C:\Users\Jessenia\source\repos\PatrónDeDiseñoTemplateMethod\obj\Debug\netcoreapp3.1\PatrónDeDiseñoTemplateMethod.csprojAssemblyReference.cache
+C:\Users\Jessenia\source\repos\PatrónDeDiseñoTemplateMethod\obj\Debug\netcoreapp3.1\PatrónDeDiseñoTemplateMethod.AssemblyInfoInputs.cache
+C:\Users\Jessenia\source\repos\PatrónDeDiseñoTemplateMethod\obj\Debug\netcoreapp3.1\PatrónDeDiseñoTemplateMethod.AssemblyInfo.cs
+C:\Users\Jessenia\source\repos\PatrónDeDiseñoTemplateMethod\obj\Debug\netcoreapp3.1\PatrónDeDiseñoTemplateMethod.csproj.CoreCompileInputs.cache
+C:\Users\Jessenia\source\repos\PatrónDeDiseñoTemplateMethod\bin\Debug\netcoreapp3.1\PatrónDeDiseñoTemplateMethod.exe
+C:\Users\Jessenia\source\repos\PatrónDeDiseñoTemplateMethod\bin\Debug\netcoreapp3.1\PatrónDeDiseñoTemplateMethod.deps.json
+C:\Users\Jessenia\source\repos\PatrónDeDiseñoTemplateMethod\bin\Debug\netcoreapp3.1\PatrónDeDiseñoTemplateMethod.runtimeconfig.json
+C:\Users\Jessenia\source\repos\PatrónDeDiseñoTemplateMethod\bin\Debug\netcoreapp3.1\PatrónDeDiseñoTemplateMethod.runtimeconfig.dev.json
+C:\Users\Jessenia\source\repos\PatrónDeDiseñoTemplateMethod\bin\Debug\netcoreapp3.1\PatrónDeDiseñoTemplateMethod.dll
+C:\Users\Jessenia\source\repos\PatrónDeDiseñoTemplateMethod\bin\Debug\netcoreapp3.1\PatrónDeDiseñoTemplateMethod.pdb
+C:\Users\Jessenia\source\repos\PatrónDeDiseñoTemplateMethod\obj\Debug\netcoreapp3.1\PatrónDeDiseñoTemplateMethod.dll
+C:\Users\Jessenia\source\repos\PatrónDeDiseñoTemplateMethod\obj\Debug\netcoreapp3.1\PatrónDeDiseñoTemplateMethod.pdb
+C:\Users\Jessenia\source\repos\PatrónDeDiseñoTemplateMethod\obj\Debug\netcoreapp3.1\PatrónDeDiseñoTemplateMethod.genruntimeconfig.cache
